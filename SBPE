@@ -1,0 +1,58 @@
+cdefs
+pass offsets through a file, not through memory; preliminary linux co…
+5 years ago
+libs
+update submodule
+3 years ago
+mayhem
+mayhem: use LoadLibraryA
+4 years ago
+misc
+init
+5 years ago
+plugins
+noise: hide_chat
+3 years ago
+rectbinpack
+import mipmap gen
+5 years ago
+.gitignore
+genmipmaps: remove remote options
+3 years ago
+.gitmodules
+add libs as submodules
+5 years ago
+README.md
+v1.7.0
+3 years ago
+bpb.proto
+import mipmap gen
+5 years ago
+bpb_pb2.py
+import mipmap gen
+5 years ago
+builder.py
+pass offsets through a file, not through memory; preliminary linux co…
+5 years ago
+config_template.ini
+config_template: add hide_chat
+3 years ago
+genmipmaps.py
+genmipmaps: multiprocessing and time modified check
+3 years ago
+loader.py
+genmipmaps: multiprocessing and time modified check
+3 years ago
+manager.py
+don't tolerate or write back missing config, it only leads to confusion
+5 years ago
+notes.txt
+infinite todo
+3 years ago
+remote.py
+v1.7.0
+3 years ago
+run.bat
+load modules from our directory, not from system python
+4 years ago
+util.py
